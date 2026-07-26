@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TV Volume OSD</string>
+    <string name="refresh_audio_diagnostics">Refresh audio diagnostics</string>
+    <string name="no_outputs_reported">none reported</string>
+    <string name="diagnostics">TV Volume OSD — Phase 1\n\nPublic AudioManager result\nCurrent: %1$d\nRange: %2$d–%3$d\nMuted: %4$b\nOutputs: %5$s\n\nThis screen is a safe diagnostic probe.\nNo volume control or special permissions are used.</string>
+</resources>
